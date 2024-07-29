@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "npm start"
   },
   "keywords": [],
   "author": "",
@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "console.table": "^0.10.0",
-    "inquirer": "^8.2.6",
+    "express": "^4.19.2",
     "pg": "^8.12.0"
   }
 }
